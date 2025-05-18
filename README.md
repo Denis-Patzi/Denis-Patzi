@@ -41,7 +41,7 @@
 
 <div align="center">
   <img
-    height=165
+    height=145
     align="center"
     alt="GitHub Stats"
     src="https://github-readme-stats.vercel.app/api/?username=Denis-Patzi&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"
@@ -49,7 +49,7 @@
   <br>
   <br>
   <img
-    height=165
+    height=145
     align="center"
     alt="Top Language"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-Patzi&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"
@@ -57,6 +57,7 @@
   <br>
   <br>
   <img
+    height=145
     align="center"
     alt="Top Language"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Denis-Patzi&theme=tokyonight"
@@ -64,26 +65,17 @@
   <br>
   <br>
   <img
-    height=154
+    height=145
     align="center"
     alt="Top Language"
     src="https://github-readme-streak-stats.herokuapp.com?user=Denis-Patzi&theme=tokyonight&card_width=885"
   />
   </div>
-
-<div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" />
-  <!-- <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" /> -->
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
-  <!-- <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" /> -->
-  <!-- <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg"> -->
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Arduino.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Matlab-Dark.svg" />
-  <!-- <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" /> -->
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
-  
+<br>
+<div align="center">
+    <!-- <img src="https://skillicons.dev/icons?i=c,cpp,cs,vscode,python,java,html,css,raspberrypi,matlab" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,react,nextjs,figma,mysql" /><br> -->
+    <img src="https://skillicons.dev/icons?i=cpp,html,css,github,react,nextjs" /><br>
 </div>
 
 <br>
