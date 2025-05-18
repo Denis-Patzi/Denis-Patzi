@@ -46,6 +46,8 @@
     alt="GitHub Stats"
     src="https://github-readme-stats.vercel.app/api/?username=Denis-Patzi&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"
   />
+  <br>
+  <br>
   <img
     height=165
     align="center"
