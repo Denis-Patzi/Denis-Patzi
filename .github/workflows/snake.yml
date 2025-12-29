@@ -1,27 +1,40 @@
 name: Generate Snake
 
 on:
-  # Se ejecuta automáticamente cada 24 horas
+  # Se ejecuta automáticamente cada 12 horas
   schedule:
-    - cron: "0 0 * * *" 
-  # Permite ejecutarlo manualmente desde la pestaña Actions
+    - cron: "0 */12 * * *" 
+  
+  # Nos permite ejecutarlo manualmente ahora mismo
   workflow_dispatch:
+  
+  # Se ejecuta en cada push a la rama master/main
+  push:
+    branches:
+    - main
 
 jobs:
-  build:
+  generate:
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
     steps:
-      - uses: actions/checkout@v2
-      
-      - uses: Platane/snk@v3
-        id: snake-gif
+      # Genera la serpiente
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      # Sube los archivos a la rama "output"
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
