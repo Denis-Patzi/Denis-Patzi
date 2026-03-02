@@ -101,7 +101,7 @@
 
 |                                                                                                                                                                              📬 Contact Me                                                                                                                                                                               |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://github.com/Denis-Patzi"> <img src="https://skillicons.dev/icons?i=github" /> </a> &nbsp; <a href="https://www.linkedin.com/in/denis-patzi-canaviri-06ab86132/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> &nbsp; <a href="https://www.instagram.com/gtonline_8/?hl=es-la"> <img src="https://skillicons.dev/icons?i=instagram" /> </a> |
+| <a href="https://github.com/Denis-Patzi"> <img src="https://skillicons.dev/icons?i=github" /> </a> &nbsp; <a href="https://www.linkedin.com/in/denis-patzi-06ab86132/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> |
 
 </div>
 
